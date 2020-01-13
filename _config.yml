@@ -1,0 +1,13 @@
+# Site settings
+title: elily漫评
+
+# Handling Reading
+exclude:
+  - README.md
+
+# Conversion
+markdown: kramdown
+
+# Outputting
+permalink: /post/:year/:title.html
+timezone: Asia/Hong_Kong
