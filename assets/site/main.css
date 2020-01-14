@@ -51,11 +51,6 @@ a:hover {
         max-width: 960px;
     }
 }
-@media (min-width: 1200px) {
-    .x-container {
-        max-width: 1140px;
-    }
-}
 
 .x-card {
     position: relative;
