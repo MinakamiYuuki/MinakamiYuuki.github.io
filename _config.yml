@@ -3,6 +3,7 @@ title: elily漫评
 
 # Handling Reading
 exclude:
+  - assets
   - README.md
 
 keep_files:
